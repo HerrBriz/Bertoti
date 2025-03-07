@@ -20,6 +20,6 @@
 * Reduzir custos pode aumentar os lucros, mas pode prejudicar a qualidade do produto e a experiência do cliente.
 
 
-  4. Comentar a imagem do slide 57, "Engenharia de Software".
-  *A imagem em questão é uma representação do Mínimo Produto Viável (MVP). O MVP consiste em entregas regulares incrementais ao longo do tempo.
-  Na imagem, embora os dois projetos visam a entrega de um veículo, a sequência de imagens inferior cumpre o requisito de MVP, pois ao longo do tempo entrega partes funcionais.
+4. Comentar a imagem do slide 57, "Engenharia de Software".
+  * A imagem em questão é uma representação do Mínimo Produto Viável (MVP). O MVP consiste em entregas regulares incrementais ao longo do tempo.
+  * Na imagem, embora os dois projetos visam a entrega de um veículo, a sequência de imagens inferior cumpre o requisito de MVP, pois ao longo do tempo entrega partes funcionais.
