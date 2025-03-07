@@ -1,4 +1,4 @@
-1. Comentário sobre o primeiro trecho do livro Software Engineering at Google, O'Reilly
+1. Comentário sobre o primeiro trecho do livro Software Engineering at Google, O'Reilly.
 
 * Durante muito tempo, nos ambientes corporativos, os termos "programação" e "engenharia de software" têm sido usados de maneira intercambiável, impedindo um esclarecimento pleno sobre o que esses termos realmente significam.
 
@@ -6,7 +6,7 @@
 
 
 
-2. Comentário sobre o segundo trecho do livro Software Engineering at Google, O'Reilly
+2. Comentário sobre o segundo trecho do livro Software Engineering at Google, O'Reilly.
 
 * Embora muitas pessoas associem a engenharia de software apenas ao ato de escrever código, o termo vai além: não se limita à programação, mas também envolve a formulação e a aplicação de ferramentas e processos para desenvolver e manter o software ao longo do tempo.
 
@@ -18,3 +18,8 @@
 * Um fazendeiro que possui uma determinada área para o plantio, não poderá plantar duas espécies de vegetais ou legumes ao mesmo tempo, terá que optar apenas por uma;
 * Um programa pode ser adaptado para rodar melhor, mas consumirá muito recurso de memória.
 * Reduzir custos pode aumentar os lucros, mas pode prejudicar a qualidade do produto e a experiência do cliente.
+
+
+  4. Comentar a imagem do slide 57, "Engenharia de Software".
+  *A imagem em questão é uma representação do Mínimo Produto Viável (MVP). O MVP consiste em entregas regulares incrementais ao longo do tempo.
+  Na imagem, embora os dois projetos visam a entrega de um veículo, a sequência de imagens inferior cumpre o requisito de MVP, pois ao longo do tempo entrega partes funcionais.
