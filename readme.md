@@ -26,3 +26,9 @@
 4. Comentar a imagem do slide 57, "Engenharia de Software".
   * A imagem em questão é uma representação do Mínimo Produto Viável (MVP). O MVP consiste em entregas regulares incrementais ao longo do tempo.
   * Na imagem, embora os dois projetos visam a entrega de um veículo, a sequência de imagens inferior cumpre o requisito de MVP, pois ao longo do tempo entrega partes funcionais.
+
+
+5. Fazer em Java um programa semelhante ao estacionamento.
+   ![Image](https://drive.google.com/file/d/1v4T9_JovtXwOgCpuFRtv11qChkQvO6KW/view?usp=drive_link)
+   ![Image](https://drive.google.com/file/d/1v1mwqSTLdzPA4qUwxsv4FNpkQYRCbCdT/view?usp=drive_link)
+   ![Image](https://drive.google.com/file/d/19yH6JPXgdzji9WUiG126rMe2T-iJJBT4/view?usp=drive_link)
