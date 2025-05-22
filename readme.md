@@ -29,11 +29,10 @@
 
 
 5. Fazer em Java um programa semelhante ao estacionamento.
-   
-![Image](https://github.com/user-attachments/assets/e3016b80-0b67-4f0b-8ddd-2ee2e03b9f3c)
-![Image](https://github.com/user-attachments/assets/1723360c-7f21-444a-ab68-a55481786d2f)
-![Image](https://github.com/user-attachments/assets/c197260f-dda3-49be-9cb5-432ae2119adb)
-
+6. 
+![Image](https://github.com/user-attachments/assets/4278eb5d-b7f0-430a-87a3-4e409ceda6a7)
+![Image](https://github.com/user-attachments/assets/6a3d1606-b99f-42d4-95d8-cb00f10a1caa)
+![Image](https://github.com/user-attachments/assets/dc56c117-a43e-48a2-9e35-44b158e63e2f)
 
 
 
