@@ -1,6 +1,6 @@
 1. Comentário sobre o primeiro trecho do livro Software Engineering at Google, O'Reilly.
 
-* Durante muito tempo, nos ambientes corporativos, os termos "programação" e "engenharia de software" têm sido usados de maneira intercambiável, impedindo um esclarecimento pleno sobre o que esses termos realmente significam.
+* Durante muito tempo nos ambientes corporativos os termos "programação" e "engenharia de software" têm sido usados de maneira intercambiável, impedindo um esclarecimento pleno sobre o que esses termos realmente significam.
 
 * Diferentemente de outros campos da engenharia, como a aeronáutica e a mecânica, a engenharia de software cria produtos pouco tangíveis, ou seja, que não são perceptíveis ao tato. Devido à sua natureza, a engenharia de software não possui a mesma rigorosidade metódica e diretrizes das outras áreas da engenharia, pois o mau funcionamento de um software geralmente não apresenta riscos tão impactantes à nossa integridade. No entanto, à medida que o software se torna cada vez mais presente em nossas atividades diárias, a engenharia de software se tornará, inevitavelmente, uma disciplina mais rigorosa e metódica.
 
